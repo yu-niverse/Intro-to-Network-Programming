@@ -1,0 +1,18 @@
+(0) Register Successfully
+(1) Register Successfully
+(2) Register Successfully
+(0) Welcome, Alice
+(1) Welcome, Bob
+(2) Welcome, David
+(0) You create private game room 101
+(0) You send invitation to Bob<bob@gmail.com>
+(Broadcast to 1) You receive invitation from Alice<alice@gmail.com>
+(0) You send invitation to David<david@gmail.com>
+(Broadcast to 2) You receive invitation from Alice<alice@gmail.com>
+(1) List invitations
+1. Alice<alice@gmail.com> invite you to join game room 101, invitation code is 12345
+(1) You join game room 101
+(Broadcast to 0) Welcome, Bob to game!
+(2) You join game room 101
+(Broadcast to 0) Welcome, David to game!
+(Broadcast to 1) Welcome, David to game!

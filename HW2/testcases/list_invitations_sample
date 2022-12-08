@@ -1,0 +1,30 @@
+5
+0 udp register Alice alice@gmail.com 1
+1 udp register Bob bob@gmail.com 2
+2 udp register Coffee coffee@gmail.com 3
+3 udp register David david@gmail.com 4
+4 udp register Tea tea@gmail.com 5
+0 tcp login Alice 1
+1 tcp login Bob 2
+2 tcp login Coffee 3
+3 tcp login David 4
+4 tcp login Tea 5
+0 tcp create private room 409 1
+1 tcp create private room 408 22
+2 tcp list invitations
+0 tcp invite coffee@gmail.com
+2 tcp list invitations
+1 tcp invite coffee@gmail.com
+2 tcp list invitations
+0 tcp leave room
+2 tcp list invitations
+4 tcp create private room 703 44444
+4 tcp invite coffee@gmail.com
+2 tcp list invitations
+3 tcp create private room 101 333
+3 tcp invite coffee@gmail.com
+2 tcp list invitations
+0 tcp create private room 203 9
+0 tcp invite coffee@gmail.com
+1 tcp invite coffee@gmail.com
+2 tcp list invitations

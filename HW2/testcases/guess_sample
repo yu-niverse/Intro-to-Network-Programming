@@ -1,0 +1,23 @@
+2
+0 udp register Alice alice@gmail.com 1
+1 udp register Bob bob@gmail.com 2
+0 tcp guess 1111
+0 tcp login Alice 1
+1 tcp login Bob 2
+0 tcp guess 1111
+0 tcp create public room 101
+1 tcp join room 101
+0 tcp guess 1111
+1 tcp guess 1111
+0 tcp start game 1 1111
+1 tcp guess 1111
+0 tcp guess 1112
+1 tcp guess 1112
+0 tcp start game 10 2233
+0 tcp guess 22333
+0 tcp guess 2234
+1 tcp guess 3322
+0 tcp guess 2333
+1 tcp guess 2323
+0 tcp guess 2233
+0 tcp guess 2233

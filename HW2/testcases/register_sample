@@ -1,0 +1,6 @@
+2
+0 udp register Alice alice@gmail.com 1
+0 udp register Alice ALICE@gmail.com 1
+0 udp register alice alice@gmail.com 1
+1 udp register Bob bob@gmail.com 2
+1 udp register Bob bob@gmail.com 2

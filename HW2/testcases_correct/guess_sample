@@ -1,0 +1,34 @@
+(0) Register Successfully
+(1) Register Successfully
+(0) You are not logged in
+(0) Welcome, Alice
+(1) Welcome, Bob
+(0) You did not join any game room
+(0) You create public game room 101
+(1) You join game room 101
+(Broadcast to 0) Welcome, Bob to game!
+(0) You are game room manager, please start game first
+(1) Game has not started yet
+(0) Game start! Current player is Alice
+(Broadcast to 1) Game start! Current player is Alice
+(1) Please wait..., current player is Alice
+(0) Alice guess '1112' and got '3A0B'
+(Broadcast to 1) Alice guess '1112' and got '3A0B'
+(1) Bob guess '1112' and got '3A0B'
+Game ends, no one wins
+(Broadcast to 0) Bob guess '1112' and got '3A0B'
+Game ends, no one wins
+(0) Game start! Current player is Alice
+(Broadcast to 1) Game start! Current player is Alice
+(0) Please enter 4 digit number with leading zero
+(0) Alice guess '2234' and got '3A0B'
+(Broadcast to 1) Alice guess '2234' and got '3A0B'
+(1) Bob guess '3322' and got '0A4B'
+(Broadcast to 0) Bob guess '3322' and got '0A4B'
+(0) Alice guess '2333' and got '3A0B'
+(Broadcast to 1) Alice guess '2333' and got '3A0B'
+(1) Bob guess '2323' and got '2A2B'
+(Broadcast to 0) Bob guess '2323' and got '2A2B'
+(0) Alice guess '2233' and got Bingo!!! Alice wins the game, game ends
+(Broadcast to 1) Alice guess '2233' and got Bingo!!! Alice wins the game, game ends
+(0) You are game room manager, please start game first

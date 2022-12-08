@@ -1,0 +1,14 @@
+(0) Register Successfully
+(1) Register Successfully
+(0) You are not logged in
+(0) Welcome, Alice
+(1) Welcome, Bob
+(0) You did not join any game room
+(0) You create public game room 101
+(1) You join game room 101
+(Broadcast to 0) Welcome, Bob to game!
+(0) Please enter 4 digit number with leading zero
+(1) You are not game room manager, you can't start game
+(0) Game start! Current player is Alice
+(Broadcast to 1) Game start! Current player is Alice
+(0) Game has started, you can't start again

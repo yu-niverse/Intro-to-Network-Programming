@@ -1,0 +1,49 @@
+(0) Register Successfully
+(1) Register Successfully
+(2) Register Successfully
+(3) Register Successfully
+(4) Register Successfully
+(0) Welcome, Alice
+(1) Welcome, Bob
+(2) Welcome, Coffee
+(3) Welcome, David
+(4) Welcome, Tea
+(0) You create private game room 409
+(1) You create private game room 408
+(2) List invitations
+No Invitations
+(0) You send invitation to Coffee<coffee@gmail.com>
+(Broadcast to 2) You receive invitation from Alice<alice@gmail.com>
+(2) List invitations
+1. Alice<alice@gmail.com> invite you to join game room 409, invitation code is 1
+(1) You send invitation to Coffee<coffee@gmail.com>
+(Broadcast to 2) You receive invitation from Bob<bob@gmail.com>
+(2) List invitations
+1. Bob<bob@gmail.com> invite you to join game room 408, invitation code is 22
+2. Alice<alice@gmail.com> invite you to join game room 409, invitation code is 1
+(0) You leave game room 409
+(2) List invitations
+1. Bob<bob@gmail.com> invite you to join game room 408, invitation code is 22
+(4) You create private game room 703
+(4) You send invitation to Coffee<coffee@gmail.com>
+(Broadcast to 2) You receive invitation from Tea<tea@gmail.com>
+(2) List invitations
+1. Bob<bob@gmail.com> invite you to join game room 408, invitation code is 22
+2. Tea<tea@gmail.com> invite you to join game room 703, invitation code is 44444
+(3) You create private game room 101
+(3) You send invitation to Coffee<coffee@gmail.com>
+(Broadcast to 2) You receive invitation from David<david@gmail.com>
+(2) List invitations
+1. David<david@gmail.com> invite you to join game room 101, invitation code is 333
+2. Bob<bob@gmail.com> invite you to join game room 408, invitation code is 22
+3. Tea<tea@gmail.com> invite you to join game room 703, invitation code is 44444
+(0) You create private game room 203
+(0) You send invitation to Coffee<coffee@gmail.com>
+(Broadcast to 2) You receive invitation from Alice<alice@gmail.com>
+(1) You send invitation to Coffee<coffee@gmail.com>
+(Broadcast to 2) You receive invitation from Bob<bob@gmail.com>
+(2) List invitations
+1. David<david@gmail.com> invite you to join game room 101, invitation code is 333
+2. Alice<alice@gmail.com> invite you to join game room 203, invitation code is 9
+3. Bob<bob@gmail.com> invite you to join game room 408, invitation code is 22
+4. Tea<tea@gmail.com> invite you to join game room 703, invitation code is 44444

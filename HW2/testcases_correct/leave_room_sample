@@ -1,0 +1,23 @@
+(0) Register Successfully
+(1) Register Successfully
+(0) Welcome, Alice
+(1) Welcome, Bob
+(0) You create public game room 111
+(1) You join game room 111
+(Broadcast to 0) Welcome, Bob to game!
+(1) You leave game room 111
+(Broadcast to 0) Bob leave game room 111
+(1) You join game room 111
+(Broadcast to 0) Welcome, Bob to game!
+(0) You leave game room 111
+(Broadcast to 1) Game room manager leave game room 111, you are forced to leave too
+(0) You create public game room 111
+(1) You join game room 111
+(Broadcast to 0) Welcome, Bob to game!
+(0) Game start! Current player is Alice
+(Broadcast to 1) Game start! Current player is Alice
+(1) You leave game room 111, game ends
+(Broadcast to 0) Bob leave game room 111, game ends
+(1) You did not join any game room
+(1) Goodbye, Bob
+(1) You are not logged in

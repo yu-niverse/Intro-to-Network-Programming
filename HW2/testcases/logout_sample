@@ -1,0 +1,11 @@
+1
+0 udp register Alice alice@gmail.com 1
+0 tcp login Alice 1
+0 tcp logout
+0 tcp logout
+0 tcp login Alice 1
+0 tcp create public room 123
+0 tcp start game 1 1010
+0 tcp logout
+0 tcp leave room
+0 tcp logout

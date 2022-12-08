@@ -1,0 +1,13 @@
+3
+0 udp register Alice alice@gmail.com 1
+1 udp register Bob bob@gmail.com 2
+2 udp register David david@gmail.com 3
+0 tcp login Alice 1
+1 tcp login Bob 2
+2 tcp login David 3
+0 tcp create private room 101 12345
+0 tcp invite bob@gmail.com
+0 tcp invite david@gmail.com
+1 tcp list invitations
+1 tcp accept alice@gmail.com 12345
+2 tcp accept alice@gmail.com 12345

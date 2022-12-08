@@ -1,0 +1,20 @@
+(0) Register Successfully
+(1) Register Successfully
+(2) Register Successfully
+(0) Welcome, Alice
+(2) You are not logged in
+(2) Welcome, David
+(0) You create public game room 122
+(2) You did not join any game room
+(2) You join game room 122
+(Broadcast to 0) Welcome, David to game!
+(2) You are not private game room manager
+(0) You leave game room 122
+(Broadcast to 2) Game room manager leave game room 122, you are forced to leave too
+(0) You create private game room 101
+(0) Invitee not logged in
+(1) Welcome, Bob
+(0) You send invitation to Bob<bob@gmail.com>
+(Broadcast to 1) You receive invitation from Alice<alice@gmail.com>
+(0) You send invitation to David<david@gmail.com>
+(Broadcast to 2) You receive invitation from Alice<alice@gmail.com>

@@ -1,0 +1,17 @@
+(0) Register Successfully
+(1) Register Successfully
+(0) Welcome, Alice
+(1) Welcome, Bob
+(0) You create public game room 123
+(1) You join game room 123
+(Broadcast to 0) Welcome, Bob to game!
+(1) List Game Rooms
+1. (Public) Game Room 123 is open for players
+(1) List Users
+1. Alice<alice@gmail.com> Online
+2. Bob<bob@gmail.com> Online
+(1) List Game Rooms
+No Rooms
+(1) List Users
+1. Alice<alice@gmail.com> Offline
+2. Bob<bob@gmail.com> Online

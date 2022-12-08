@@ -1,0 +1,26 @@
+3
+0 udp register Alice alice@gmail.com 1
+1 udp register Bob bob@gmail.com 2
+2 udp register David david@gmail.com 3
+0 tcp login Alice 1
+1 tcp login Bob 2
+2 tcp login David 3
+0 tcp create private room 101 12345
+1 tcp accept alice@gmail.com 12345
+0 tcp invite bob@gmail.com
+1 tcp accept alice@gmail.com 1234
+1 tcp accept alice@gmail.com 12345
+2 tcp create private room 102 23456
+2 tcp invite bob@gmail.com
+1 tcp accept david@gmail.com 23456
+1 tcp leave room
+1 tcp accept david@gmail.com 23456
+1 tcp leave room
+2 tcp start game 1 1001
+1 tcp accept david@gmail.com 23456
+2 tcp guess 1001
+1 tcp accept david@gmail.com 23456
+1 tcp leave room
+1 tcp logout
+1 tcp login Bob 2
+1 tcp accept david@gmail.com 23456
