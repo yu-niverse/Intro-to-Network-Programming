@@ -9,6 +9,7 @@ C++, Python
 - HW2 : $~$ Game rooms and invitations
 - Midterm : $~$ TCP and UDP
 
+<hr>
 
 ### Docker Environment Setup
 
